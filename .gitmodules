@@ -2,15 +2,15 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "RblDataLicense"]
+	path = RblDataLicense
+	url = https://github.com/eguidotti/rbldatalicense
 [submodule "bidask"]
 	path = bidask
 	url = https://github.com/cran/bidask
 [submodule "calculus"]
 	path = calculus
 	url = https://github.com/eguidotti/calculus
-[submodule "RblDataLicense"]
-	path = RblDataLicense
-	url = https://github.com/eguidotti/rbldatalicense
 [submodule "yuimaGUI"]
 	path = yuimaGUI
 	url = https://github.com/cran/yuimaGUI
