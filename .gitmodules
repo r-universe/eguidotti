@@ -7,7 +7,8 @@
 	url = https://github.com/eguidotti/rbldatalicense
 [submodule "bidask"]
 	path = bidask
-	url = https://github.com/cran/bidask
+	url = https://github.com/eguidotti/bidask
+	subdir = r
 [submodule "calculus"]
 	path = calculus
 	url = https://github.com/eguidotti/calculus
