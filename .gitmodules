@@ -12,6 +12,3 @@
 [submodule "calculus"]
 	path = calculus
 	url = https://github.com/eguidotti/calculus
-[submodule "yuimaGUI"]
-	path = yuimaGUI
-	url = https://github.com/cran/yuimaGUI
